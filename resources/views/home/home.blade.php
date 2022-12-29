@@ -89,9 +89,6 @@
                         <div class="col-md">
                             <div class="card bg-warning text-light">
                                 <div class="card-body text-center">
-                                    <div class="h1 mb-3">
-                                        <i class="bi bi-laptop"></i>
-                                    </div>
                                     <img src="image/im1.jpg" class="card-img-top" alt="...">
                                     <div class="grop-news_pst_cont_warp">
                                         <div class="grop-news_pst_cont" style="height: 242px;">
@@ -113,9 +110,6 @@
                         <div class="col-md">
                             <div class="card bg-warning text-light">
                                 <div class="card-body text-center">
-                                    <div class="h1 mb-3">
-                                        <i class="bi bi-person-square"></i>
-                                    </div>
                                     <img src="image/im1.jpg" class="card-img-top" alt="...">
                                     <div class="grop-news_pst_cont_warp">
                                         <div class="grop-news_pst_cont" style="height: 242px;">
@@ -137,9 +131,7 @@
                         <div class="col-md">
                             <div class="card bg-warning text-light">
                                 <div class="card-body text-center">
-                                    <div class="h1 mb-3">
-                                        <i class="bi bi-people"></i>
-                                    </div>
+
 
                                     <img src="image/im1.jpg" class="card-img-top" alt="...">
                                     <div class="grop-news_pst_cont_warp">
@@ -198,7 +190,7 @@
 
 
         <div class="container-form  bg-light text-dark pt-4 ph-4">
-            <h2><strong>NOS RECENTES RÉALISATIONS</strong> </h2>
+            <h2><strong>NOTRE ÉQUIPE</strong> </h2>
             <p class="realisation">Lorem ipsum dolor sit amet adipisicing elit. Distinctio, non perspiciatis? accusantium
                 ,quibusdam magni. </p>
             <section class="p-5">
@@ -207,48 +199,74 @@
                         <div class="col-md">
                             <div class="card bg-warning text-light">
                                 <div class="card-body text-center">
-                                    <div class="h1 mb-3">
-                                        <i class="bi bi-laptop"></i>
-                                    </div>
+
                                     <img src="image/im1.jpg" class="card-img-top" alt="...">
                                     <div class="grop-news_pst_cont_warp">
                                         <div class="grop-news_pst_cont" style="height: 242px;">
                                             <div class="grop-news_ps_date">
-                                                <i class="fa fa-clock-o"></i> 06 Nov 2021
+                                                <div class="btnSection"><strong>VICE PRESIDENTE</strong></div>
                                             </div>
-                                            <h4 class="grop-news_ps_title"><a href="{{ route('about') }}">BlOOM EVENT VOUS
-                                                    DEVOILE SON UNIVERS ! ✅✅✅</a></h4>
+                                            <h4 class="grop-news_ps_title" style="font-size: 18px"><a href="{{ route('about') }}">MOISE DAINGUI</a></h4>
                                             <p>Le samedi 06 Novembre 2021 était exceptionnel pour l’organisation !Comme je
                                                 l’avais énoncé dans mon … </p>
+                                                <hr>
+
+                                                <ul class="list-inline d-flex justify-content-around">
+                                                    <li>
+                                                        <h5 class="">Meet Me On:</h5>
+                                                    </li>
+                                                    <li><a href="https://fr-fr.facebook.com/taranik.nikiema">
+                                <i class="fa fa-facebook-square"></i>
+                              </a></li>
+                                                    <li><a href="https://twitter.com/TNinkiema">
+                                <i class="fa fa-twitter-square"></i>
+                              </a></li>
+                                                    <li><a href="https://www.linkedin.com/in/ninkiema-tara-15b920184/">
+                                <i class="fa fa-linkedin-square"></i>
+                              </a></li>
+                                                  </ul>
                                         </div>
                                         <!--/ end-->
                                         <!--meta element start \-->
                                     </div>
-                                    <a href="#" class="btn btn-primary">Lire plus</a>
+
                                 </div>
                             </div>
                         </div>
                         <div class="col-md">
                             <div class="card bg-warning text-light">
                                 <div class="card-body text-center">
-                                    <div class="h1 mb-3">
-                                        <i class="bi bi-person-square"></i>
-                                    </div>
+
                                     <img src="image/im1.jpg" class="card-img-top" alt="...">
                                     <div class="grop-news_pst_cont_warp">
                                         <div class="grop-news_pst_cont" style="height: 242px;">
                                             <div class="grop-news_ps_date">
-                                                <i class="fa fa-clock-o"></i> 06 Nov 2021
+                                                <div class="btnSection"><strong>VICE PRESIDENTE</strong></div>
                                             </div>
-                                            <h4 class="grop-news_ps_title"><a href="{{ route('about') }}">BlOOM EVENT VOUS
-                                                    DEVOILE SON UNIVERS ! ✅✅✅</a></h4>
+                                            <h4 class="grop-news_ps_title" style="font-size: 18px"><a href="{{ route('about') }}">ELI DAINGUI</a></h4>
                                             <p>Le samedi 06 Novembre 2021 était exceptionnel pour l’organisation !Comme je
                                                 l’avais énoncé dans mon … </p>
+                                                <hr>
+
+                                                <ul class="list-inline d-flex justify-content-around">
+                                                    <li>
+                                                        <h5 class="">Meet Me On:</h5>
+                                                    </li>
+                                                    <li><a href="https://fr-fr.facebook.com/taranik.nikiema">
+                                <i class="fa fa-facebook-square"></i>
+                              </a></li>
+                                                    <li><a href="https://twitter.com/TNinkiema">
+                                <i class="fa fa-twitter-square"></i>
+                              </a></li>
+                                                    <li><a href="https://www.linkedin.com/in/ninkiema-tara-15b920184/">
+                                <i class="fa fa-linkedin-square"></i>
+                              </a></li>
+                                                  </ul>
                                         </div>
                                         <!--/ end-->
                                         <!--meta element start \-->
                                     </div>
-                                    <a href="#" class="btn btn-primary">Lire plus</a>
+
                                 </div>
                             </div>
                         </div>
@@ -259,17 +277,32 @@
                                     <div class="grop-news_pst_cont_warp">
                                         <div class="grop-news_pst_cont" style="height: 242px;">
                                             <div class="grop-news_ps_date">
-                                             <div class="btnSection"> 06 Nov 2021</div>
+                                             <div class="btnSection"><strong>VICE PRESIDENTE</strong></div>
                                             </div>
-                                            <h4 class="grop-news_ps_title"><a href="{{ route('about') }}">BlOOM EVENT VOUS
-                                                    DEVOILE SON UNIVERS ! ✅✅✅</a></h4>
-                                            <p>Le samedi 06 Novembre 2021 était exceptionnel pour l’organisation !Comme je
-                                                l’avais énoncé dans mon … </p>
-                                        </div>
+                                            <h4 class="grop-news_ps_title" style="font-size: 18px"><a href="{{ route('about') }}">DAINGUI RACHEL</a></h4>
+                                            <p>Le samedi 06 Novembre 2021 était exceptionnel pour</p>
+                                            <hr>
+
+                                            <ul class="list-inline d-flex justify-content-around">
+                                                <li>
+                                                    <h5 class="">Meet Me On:</h5>
+                                                </li>
+                                                <li><a href="https://fr-fr.facebook.com/taranik.nikiema">
+                            <i class="fa fa-facebook-square"></i>
+                          </a></li>
+                                                <li><a href="https://twitter.com/TNinkiema">
+                            <i class="fa fa-twitter-square"></i>
+                          </a></li>
+                                                <li><a href="https://www.linkedin.com/in/ninkiema-tara-15b920184/">
+                            <i class="fa fa-linkedin-square"></i>
+                          </a></li>
+                                              </ul>
+                                            </div>
+
                                         <!--/ end-->
                                         <!--meta element start \-->
+
                                     </div>
-                                    <a href="#" class="btn btn-primary">Lire plus</a>
                                 </div>
                             </div>
                         </div>
@@ -284,4 +317,6 @@
 
 
     </section>
+
+
 @endsection
