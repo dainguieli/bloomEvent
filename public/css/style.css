@@ -433,3 +433,66 @@ margin-block-end: 1em;
 margin-inline-start: 0px;
 margin-inline-end: 0px;
 }
+
+#galerie{
+    /*position:relative;*/
+    margin:auto;
+    text-align:center;
+  }
+  #galerie h3{
+    text-align:center;
+    color: #5d7885;
+    font-size: 20px;
+  }
+
+  #galerie label{cursor:pointer;}
+
+  #galerie figure{
+    position:relative;
+    float:left;
+    /*display:inline-block;*/
+    width: 200px;height: 160px;
+    border-radius: 5px;
+    border: 5px white solid;
+    margin: 10px;
+    background:white;
+    box-shadow: 0 0 5px #aaa;
+  }
+  #galerie figure:focus{
+    outline:none;
+    -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -o-transform: scale(2);
+    transform: scale(2);
+    z-index:999;
+  }
+  #galerie figure:focus ~ span#mask{
+    position:fixed;
+    height:100%;width:100%;
+    top:0;left:0;right:0;bottom:0;
+    background: rgba(0,0,0,0.5);
+  }
+  #galerie figure .img_cont{
+    overflow:hidden;
+    width:100%;height:120px;
+  }
+  #galerie figure img{
+    width: 100%;height:100%;
+    overflow:hidden;
+  }
+  #galerie figure figcaption{
+    /*position:relative;*/
+    height: 30px;
+    background: white;
+  }
+  #galerie figure figcaption .rune{
+    display:block;
+    height: 5px;
+  }
+  #galerie figure:hover figcaption .rune{
+    background: transparent url(http://competitive.euw.leagueoflegends.com/sites/all/themes/custom/zen_boilerplate/images/lol-media-sprite.png) -509px -108px no-repeat;
+  }
+  #wpp:checked ~ #thumbs figure,#fa:checked ~ #thumbs figure,#aw:checked ~ #thumbs figure,#cp:checked ~ #thumbs figure,#ss:checked ~ #thumbs figure{
+    display:none;
+  }
+  #wpp:checked ~ #thumbs figure.wpp,#fa:checked ~ #thumbs figure.fa,#aw:checked ~ #thumbs figure.aw,#cp:checked ~ #thumbs figure.cp,#ss:checked ~ #thumbs figure.ss{display:inline-block;}

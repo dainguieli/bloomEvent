@@ -3,14 +3,15 @@
 @section('title','À propos')
 
 @section('content')
-<section id="learn" class="p-5">
-    <div class="container">
+
+<section style="padding: 90px"  >
+    <div class="container" >
         <div class="row align-items-center justify-content-between">
 
             <div class="col-md">
 
                 <div id='carrousel'>
-                    <div id='container'>
+                    <div >
 
 
                         <div class="diapo">
@@ -25,9 +26,7 @@
 
                                 </div>
                             </div>
-                            <!-- Flèches -->
-                            <i id="nav-gauche" class="las la-chevron-left"></i>
-                            <i id="nav-droite" class="las la-chevron-right"></i>
+
                         </div>
 
                     </div>

@@ -206,25 +206,26 @@
                                             <div class="grop-news_ps_date">
                                                 <div class="btnSection"><strong>VICE PRESIDENTE</strong></div>
                                             </div>
-                                            <h4 class="grop-news_ps_title" style="font-size: 18px"><a href="{{ route('about') }}">MOISE DAINGUI</a></h4>
+                                            <h4 class="grop-news_ps_title" style="font-size: 18px"><a
+                                                    href="{{ route('about') }}">MOISE DAINGUI</a></h4>
                                             <p>Le samedi 06 Novembre 2021 était exceptionnel pour l’organisation !Comme je
                                                 l’avais énoncé dans mon … </p>
-                                                <hr>
+                                            <hr>
 
-                                                <ul class="list-inline d-flex justify-content-around">
-                                                    <li>
-                                                        <h5 class="">Meet Me On:</h5>
-                                                    </li>
-                                                    <li><a href="https://fr-fr.facebook.com/taranik.nikiema">
-                                <i class="fa fa-facebook-square"></i>
-                              </a></li>
-                                                    <li><a href="https://twitter.com/TNinkiema">
-                                <i class="fa fa-twitter-square"></i>
-                              </a></li>
-                                                    <li><a href="https://www.linkedin.com/in/ninkiema-tara-15b920184/">
-                                <i class="fa fa-linkedin-square"></i>
-                              </a></li>
-                                                  </ul>
+                                            <ul class="list-inline d-flex justify-content-around">
+                                                <li>
+                                                    <h5 class="">Meet Me On:</h5>
+                                                </li>
+                                                <li><a href="https://fr-fr.facebook.com/taranik.nikiema">
+                                                        <i class="fa fa-facebook-square"></i>
+                                                    </a></li>
+                                                <li><a href="https://twitter.com/TNinkiema">
+                                                        <i class="fa fa-twitter-square"></i>
+                                                    </a></li>
+                                                <li><a href="https://www.linkedin.com/in/ninkiema-tara-15b920184/">
+                                                        <i class="fa fa-linkedin-square"></i>
+                                                    </a></li>
+                                            </ul>
                                         </div>
                                         <!--/ end-->
                                         <!--meta element start \-->
@@ -243,25 +244,26 @@
                                             <div class="grop-news_ps_date">
                                                 <div class="btnSection"><strong>VICE PRESIDENTE</strong></div>
                                             </div>
-                                            <h4 class="grop-news_ps_title" style="font-size: 18px"><a href="{{ route('about') }}">ELI DAINGUI</a></h4>
+                                            <h4 class="grop-news_ps_title" style="font-size: 18px"><a
+                                                    href="{{ route('about') }}">ELI DAINGUI</a></h4>
                                             <p>Le samedi 06 Novembre 2021 était exceptionnel pour l’organisation !Comme je
                                                 l’avais énoncé dans mon … </p>
-                                                <hr>
+                                            <hr>
 
-                                                <ul class="list-inline d-flex justify-content-around">
-                                                    <li>
-                                                        <h5 class="">Meet Me On:</h5>
-                                                    </li>
-                                                    <li><a href="https://fr-fr.facebook.com/taranik.nikiema">
-                                <i class="fa fa-facebook-square"></i>
-                              </a></li>
-                                                    <li><a href="https://twitter.com/TNinkiema">
-                                <i class="fa fa-twitter-square"></i>
-                              </a></li>
-                                                    <li><a href="https://www.linkedin.com/in/ninkiema-tara-15b920184/">
-                                <i class="fa fa-linkedin-square"></i>
-                              </a></li>
-                                                  </ul>
+                                            <ul class="list-inline d-flex justify-content-around">
+                                                <li>
+                                                    <h5 class="">Meet Me On:</h5>
+                                                </li>
+                                                <li><a href="https://fr-fr.facebook.com/taranik.nikiema">
+                                                        <i class="fa fa-facebook-square"></i>
+                                                    </a></li>
+                                                <li><a href="https://twitter.com/TNinkiema">
+                                                        <i class="fa fa-twitter-square"></i>
+                                                    </a></li>
+                                                <li><a href="https://www.linkedin.com/in/ninkiema-tara-15b920184/">
+                                                        <i class="fa fa-linkedin-square"></i>
+                                                    </a></li>
+                                            </ul>
                                         </div>
                                         <!--/ end-->
                                         <!--meta element start \-->
@@ -277,9 +279,10 @@
                                     <div class="grop-news_pst_cont_warp">
                                         <div class="grop-news_pst_cont" style="height: 242px;">
                                             <div class="grop-news_ps_date">
-                                             <div class="btnSection"><strong>VICE PRESIDENTE</strong></div>
+                                                <div class="btnSection"><strong>VICE PRESIDENTE</strong></div>
                                             </div>
-                                            <h4 class="grop-news_ps_title" style="font-size: 18px"><a href="{{ route('about') }}">DAINGUI RACHEL</a></h4>
+                                            <h4 class="grop-news_ps_title" style="font-size: 18px"><a
+                                                    href="{{ route('about') }}">DAINGUI RACHEL</a></h4>
                                             <p>Le samedi 06 Novembre 2021 était exceptionnel pour</p>
                                             <hr>
 
@@ -288,16 +291,16 @@
                                                     <h5 class="">Meet Me On:</h5>
                                                 </li>
                                                 <li><a href="https://fr-fr.facebook.com/taranik.nikiema">
-                            <i class="fa fa-facebook-square"></i>
-                          </a></li>
+                                                        <i class="fa fa-facebook-square"></i>
+                                                    </a></li>
                                                 <li><a href="https://twitter.com/TNinkiema">
-                            <i class="fa fa-twitter-square"></i>
-                          </a></li>
+                                                        <i class="fa fa-twitter-square"></i>
+                                                    </a></li>
                                                 <li><a href="https://www.linkedin.com/in/ninkiema-tara-15b920184/">
-                            <i class="fa fa-linkedin-square"></i>
-                          </a></li>
-                                              </ul>
-                                            </div>
+                                                        <i class="fa fa-linkedin-square"></i>
+                                                    </a></li>
+                                            </ul>
+                                        </div>
 
                                         <!--/ end-->
                                         <!--meta element start \-->
